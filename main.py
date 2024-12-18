@@ -1,0 +1,1 @@
+print(""sameul is blak")
