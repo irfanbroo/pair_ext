@@ -1,1 +1,1 @@
-print(""sameul is blak")
+print("sameul is blak")
